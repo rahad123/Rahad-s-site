@@ -1,5 +1,5 @@
 # My Site
 
 ```
-([https://shidul.netlify.app/](https://shidul.netlify.app/))
+Live - https://shidul.netlify.app/
 ```
