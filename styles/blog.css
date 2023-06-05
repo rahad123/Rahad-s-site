@@ -1,0 +1,123 @@
+.header {
+  height: 250px;
+  width: 100%;
+  border-bottom: ridge;
+}
+.img-1 {
+  height: 55px;
+  width: 55px;
+  border-radius: 25px;
+  position: relative;
+  left: 100px;
+  top: 30px;
+}
+.headline {
+  position: relative;
+  left: 170px;
+  bottom: 40px;
+  font-size: 28px;
+}
+.insta {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  left: 200px;
+  bottom: 5px;
+}
+.github {
+  height: 35px;
+  width: 35px;
+  position: relative;
+  left: 90px;
+}
+.linkdln {
+  height: 35px;
+  width: 35px;
+  position: relative;
+  left: 90px;
+}
+.follow {
+  height: 40px;
+  width: 100px;
+  border-radius: 20px;
+  float: right;
+  background-color: blue;
+  color: white;
+  font-weight: bolder;
+  position: relative;
+  bottom: 100px;
+  right: 50px;
+  border: none;
+}
+.home {
+  text-align: center;
+  position: relative;
+  right: 50px;
+  top: 25px;
+}
+.badges {
+  text-align: center;
+  position: relative;
+  left: 50px;
+  bottom: 15px;
+}
+.container-2 {
+  height: 350px;
+  width: 100%;
+  border-bottom: ridge;
+}
+.img-2 {
+  height: 170px;
+  width: 190px;
+  border-radius: 100px;
+  position: relative;
+  left: 620px;
+  top: 30px;
+}
+.name-header {
+  position: relative;
+  left: 630px;
+  top: 20px;
+}
+.tag {
+  position: relative;
+  left: 550px;
+  top: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container-3 {
+  height: 420px;
+  width: 100%;
+  border-bottom: ridge;
+}
+.header-2 {
+  text-align: center;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container-4 {
+  height: 400px;
+  width: 100%;
+  border-bottom: ridge;
+}
+.image-1 {
+  height: 300px;
+  width: 300px;
+  margin: 0 25px;
+}
+.image-2 {
+  height: 300px;
+  width: 300px;
+  margin: 0 25px;
+}
+.image-3 {
+  height: 300px;
+  width: 300px;
+  margin: 0 25px;
+}
+.image-4 {
+  height: 300px;
+  width: 300px;
+  margin: 0 25px;
+}
